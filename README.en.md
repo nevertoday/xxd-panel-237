@@ -60,7 +60,7 @@ The ground is pale gray-lavender. Accents are acid lime and cobalt, plus a few c
 Install from GitHub:
 
 ```bash
-npx skills add https://github.com/nevertoday/xxd-panel-237 --skill xxd-panel-237
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-237 --skill xxd-panel-237
 ```
 
 Restart the agent session after installation, then invoke `$xxd-panel-237`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
