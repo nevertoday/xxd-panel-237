@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-237
-description: "Create XXD Panel 237 raster artwork: a faithful photograph paired with a neo-Y2K kawaii sticker-zine collage of die-cut fragments of the same subject, pale gray-lavender ground, acid lime and cobalt accents, and cheeky magazine micro-captions. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-237 or asks for this Y2K贴纸拼贴 style."
+description: "XXD Panel 237｜Y2K Sticker Collage: breaks the same subject from a photo into several cut-out stickers in different poses, sizes and crops — candid-looking moments, one or two exaggerated close-ups and deliberately oversized slices — each with a thick white die-cut border, scattered, slightly rotated and overlapping in art-directed chaos on a pale grey-lavender neo-Y2K kawaii zine page, with acid lime and cobalt blue as accent colours plus a few colours from the photo, a little Japanese-magazine annotation lines, bubble graffiti stickers and comic doodles, and small cheeky handwritten captions like margin notes or chat snippets; no unrelated objects are added. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-237 or asks for neo-Y2K sticker collage, kawaii zine or die-cut sticker layouts from a photo."
 ---
 
 # XXD Panel 237

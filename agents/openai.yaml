@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 237"
-  short_description: "Y2K贴纸拼贴：上半保留原照，下半拆成淡灰紫底上的白边贴纸小志"
-  default_prompt: "Use $xxd-panel-237 to transform my photograph following the complete canonical source brief."
+  short_description: "Y2K贴纸拼贴：把同一主体拆成几张白边贴纸，散落在淡灰紫的 neo-Y2K 小志上"
+  default_prompt: "Use $xxd-panel-237 to turn my photo into Y2K Sticker Collage artwork."

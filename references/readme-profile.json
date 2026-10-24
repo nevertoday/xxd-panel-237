@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 237｜Y2K Sticker Collage: breaks the same subject from a photo into several cut-out stickers in different poses, sizes and crops — candid-looking moments, one or two exaggerated close-ups and deliberately oversized slices — each with a thick white die-cut border, scattered, slightly rotated and overlapping in art-directed chaos on a pale grey-lavender neo-Y2K kawaii zine page, with acid lime and cobalt blue as accent colours plus a few colours from the photo, a little Japanese-magazine annotation lines, bubble graffiti stickers and comic doodles, and small cheeky handwritten captions like margin notes or chat snippets; no unrelated objects are added. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-237 or asks for neo-Y2K sticker collage, kawaii zine or die-cut sticker layouts from a photo.",
+  "short_description": "Y2K贴纸拼贴：把同一主体拆成几张白边贴纸，散落在淡灰紫的 neo-Y2K 小志上",
+  "zh-CN": {
+    "name": "Y2K贴纸拼贴",
+    "tagline": "把同一主体拆成几张白边贴纸，散落在一页淡灰紫的 neo-Y2K 小志上。",
+    "look": "同一个主体被拆成多张不同姿态、不同大小、不同裁切的贴纸：几个像随手抓拍的瞬间、一两个夸张的局部特写，还有故意裁得很大的主体切片，不加入无关的东西。每张贴纸都有明显的白色模切边，错落、轻微旋转、彼此穿插或叠压，看起来随手，实际主次清楚。底色是淡灰紫，强调色是酸柠绿和钴蓝，再配少量从照片整理出的颜色；旁边点缀一点日系杂志标注线、泡泡涂鸦贴纸和漫画小涂鸦。小字像杂志边注、聊天碎语或吐槽，俏皮而轻。",
+    "traits": ["neo-Y2K", "白边贴纸", "淡灰紫", "酸柠钴蓝", "散落拼贴", "杂志小注"],
+    "good": [
+      "有表情、动作或姿态的主体：一个人、一只猫、一只狗",
+      "带点梗感或可爱感的日常照片：自拍、宠物发呆、朋友搞怪",
+      "想做社交封面、头像墙、青年杂志或个人小志的照片"
+    ],
+    "poor": [
+      "没有明确主体的风景或空镜，拆不出几张贴纸",
+      "需要庄重、正式或高级商务感的用途",
+      "想保留原照片色调，或要整齐网格、复古沉稳配色的需求"
+    ]
+  },
+  "en": {
+    "name": "Y2K Sticker Collage",
+    "tagline": "Breaks one subject into white-bordered stickers scattered across a pale grey-lavender neo-Y2K zine page.",
+    "look": "The same subject is split into several stickers in different poses, sizes and crops: a few moments that look like candid snaps, one or two exaggerated close-ups and some deliberately oversized slices, with nothing unrelated added. Every sticker has a clear white die-cut border, and they are staggered, slightly rotated, tucked into or over one another, so it looks casual while the hierarchy stays clear. The background is pale grey-lavender, the accents are acid lime and cobalt blue, plus a few colours drawn from the photo, with a touch of Japanese-magazine annotation lines, bubble graffiti stickers and comic doodles. Small text reads like magazine margin notes, chat snippets or cheeky asides.",
+    "traits": ["Neo-Y2K", "White-bordered stickers", "Pale grey-lavender", "Acid lime and cobalt", "Scattered collage", "Magazine side notes"],
+    "good": [
+      "Subjects with expression, movement or attitude: a person, a cat, a dog",
+      "Everyday photos with a meme-like or cute feel: selfies, a pet staring into space, friends goofing around",
+      "Photos you want as a social media cover, an avatar wall, a youth magazine or a personal zine"
+    ],
+    "poor": [
+      "Landscapes or empty scenes without a clear subject, which do not break into stickers",
+      "Uses that need a solemn, formal or corporate tone",
+      "Requests to keep the photo's own colour mood, or for a neat grid or sober vintage palette"
+    ]
+  },
+  "ja": {
+    "name": "Y2Kステッカーコラージュ",
+    "tagline": "同じ主役を白フチのシール数枚に分け、淡い灰紫の neo-Y2K ZINE のページに散らします。",
+    "look": "同じ主役を、ポーズも大きさも切り方も違う何枚かのシールに分けます。スナップのような瞬間がいくつか、大げさな部分アップが一、二枚、わざと大きく切り取ったカットもあり、関係のない物は加えません。どのシールにもはっきりした白いダイカットのフチがあり、ずらしたり、少し回したり、差し込んだり重ねたりして、気ままに見えても主従ははっきりしています。地は淡い灰紫で、差し色は蛍光ライムとコバルトブルーに、写真から整えた色を少し。日本の雑誌風の注釈線、バブル文字のグラフィティシール、マンガ風の落書きが少し添えられます。小さな文字は雑誌の欄外メモ、チャットのつぶやき、ツッコミのようで、軽く遊び心があります。",
+    "traits": ["neo-Y2K", "白フチのシール", "淡い灰紫", "ライムとコバルト", "散らしコラージュ", "雑誌の欄外メモ"],
+    "good": [
+      "表情や動き、ポーズのある主役：人物、猫、犬",
+      "ネタ感やかわいさのある日常写真：自撮り、ぼんやりするペット、ふざける友だち",
+      "SNSのカバー、アイコン、ユース系雑誌、個人のZINEにしたい写真"
+    ],
+    "poor": [
+      "はっきりした主役のない風景や空のカット（シールに分けられません）",
+      "厳かでフォーマルな、ビジネス向けの用途",
+      "写真本来の色調を残したい、整ったグリッドや落ち着いたレトロ配色にしたい場合"
+    ]
+  },
+  "ko": {
+    "name": "Y2K 스티커 콜라주",
+    "tagline": "같은 주인공을 흰 테두리 스티커 여러 장으로 나누어 옅은 회보라색 neo-Y2K 진 페이지에 흩뿌립니다.",
+    "look": "같은 주인공을 자세도 크기도 자르는 방식도 다른 여러 장의 스티커로 나눕니다. 스냅 사진 같은 순간 몇 장, 과장된 부분 클로즈업 한두 장, 일부러 크게 잘라낸 조각도 있으며, 관계없는 사물은 넣지 않습니다. 모든 스티커에는 뚜렷한 흰색 다이컷 테두리가 있고, 엇갈리게, 살짝 돌려서, 서로 끼우거나 겹쳐 놓아 즉흥적으로 보여도 주된 것과 부수적인 것이 분명합니다. 바탕은 옅은 회보라색이고 포인트 색은 애시드 라임과 코발트 블루에 사진에서 정리한 색 몇 가지를 더합니다. 일본 잡지풍 주석선, 버블 그라피티 스티커, 만화 낙서가 조금 곁들여집니다. 작은 글자는 잡지 여백 메모, 채팅 한마디, 혼잣말 같은 딴지처럼 가볍고 장난스럽습니다.",
+    "traits": ["neo-Y2K", "흰 테두리 스티커", "옅은 회보라색", "라임과 코발트", "흩어진 콜라주", "잡지 여백 메모"],
+    "good": [
+      "표정, 동작, 자세가 있는 주인공: 사람, 고양이, 강아지",
+      "밈 같거나 귀여운 느낌의 일상 사진: 셀카, 멍때리는 반려동물, 장난치는 친구",
+      "SNS 커버, 프로필 모음, 청춘 잡지, 개인 진으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "뚜렷한 주인공이 없는 풍경이나 빈 장면(스티커로 나눌 수 없습니다)",
+      "엄숙하거나 격식 있는 비즈니스 용도",
+      "사진 본래 색감을 지키거나 반듯한 그리드, 차분한 복고 배색을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج ملصقات Y2K",
+    "tagline": "يقسّم العنصر الواحد إلى ملصقات بحواف بيضاء متناثرة على صفحة زين بنفسجية رمادية باهتة بروح نيو Y2K.",
+    "look": "يُقسَّم العنصر نفسه إلى عدة ملصقات بوضعيات وأحجام وقصّات مختلفة: لحظات تبدو كلقطات عفوية، ولقطة أو اثنتان قريبتان مبالغ فيهما، وشرائح مكبّرة عمداً، دون إضافة أي شيء لا علاقة له به. لكل ملصق حافة بيضاء واضحة مقصوصة بالقالب، وتتوزع متدرجة ومائلة قليلاً ومتداخلة أو متراكبة، فتبدو عفوية مع بقاء التراتب واضحاً. الخلفية بنفسجية رمادية باهتة، وألوان التأكيد أخضر ليموني حمضي وأزرق كوبالتي مع بضعة ألوان من الصورة، ومعها قليل من خطوط التعليق على طريقة المجلات اليابانية وملصقات غرافيتي بحروف منتفخة ورسوم كوميكس صغيرة. والنص الصغير كأنه حواشي مجلة أو مقتطفات دردشة أو تعليقات ساخرة خفيفة.",
+    "traits": ["نيو Y2K", "ملصقات بحواف بيضاء", "بنفسجي رمادي باهت", "ليموني حمضي وكوبالتي", "كولاج متناثر", "حواشٍ بأسلوب المجلات"],
+    "good": [
+      "عناصر فيها تعبير أو حركة أو وضعية: شخص، قطة، كلب",
+      "صور يومية فيها طرافة أو لطافة: صورة ذاتية، حيوان أليف شارد، أصدقاء يمزحون",
+      "صور تريدها غلافاً لوسائل التواصل أو جداراً لصور شخصية أو مجلة شبابية أو زين شخصي"
+    ],
+    "poor": [
+      "مناظر طبيعية أو لقطات خالية بلا عنصر واضح، فلا يمكن تقسيمها إلى ملصقات",
+      "استخدامات تحتاج إلى طابع مهيب أو رسمي أو مؤسسي",
+      "الرغبة في الإبقاء على ألوان الصورة الأصلية أو طلب شبكة مرتبة أو ألوان عتيقة رصينة"
+    ]
+  }
+}
